@@ -4,7 +4,7 @@ import ulibka from '../assets/img/ВесёлаяУлыбка.jpg'
 
 const CakesCatalog = () => {
     return (
-        <section className="catalog">
+        <section className="items_catalog">
             <h1 hidden>Торты</h1>
             <ul>
                 <li>

@@ -5,7 +5,7 @@ import ekler from '../assets/img/Эклеры.jpg'
 
 const DesertsCatalog = () => {
     return (
-        <section className="catalog">
+        <section className="items_catalog">
             <h1 hidden>Десерты</h1>
             <ul>
                 <li>

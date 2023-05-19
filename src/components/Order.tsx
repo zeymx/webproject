@@ -2,7 +2,8 @@ import cake from '../assets/img/cake.jpg'
 
 const News = () => {
     return (
-        <section className="order"> 
+        <section className="order">
+            <h2 hidden>Закажите у нас по телефону</h2> 
             <p className="order_title">Вы можете заказать у нас <br></br> продукцию для дома и <br></br> для праздников </p>
             <img src={cake} alt="большой торт"></img>
             <p className="order_number">
